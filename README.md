@@ -1,7 +1,3 @@
-Perfecto, Teddy. Aquí tienes un borrador de `README.md` profesional y claro para tu portafolio de análisis de datos con Python, ideal para subirlo a GitHub:
-
----
-
 ````markdown
 # 🏘️ Portafolio de Análisis de Datos con Python
 
